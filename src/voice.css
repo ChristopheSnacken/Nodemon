@@ -1,0 +1,11 @@
+
+.rvi-microphone {
+  width: 50px!important;
+  height: 50px!important;
+  left: -60px;
+}
+
+input {
+  background-color: transparent!important;
+  border-color: transparent!important;
+}

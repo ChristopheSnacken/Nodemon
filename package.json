@@ -1,0 +1,25 @@
+{
+  "name": "react-task",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "dependencies": {
+    "connect": "^3.6.6",
+    "create-react-class": "^15.6.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-sound": "^1.2.0",
+    "react-speech-recognition": "^1.0.6",
+    "react-voice-input": "^0.0.4",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

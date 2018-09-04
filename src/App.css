@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: #b5dda4;
+
+
+}
+
+
+
+.maze-image {
+width: 30px;
+height: 30px;
+padding-top: 5px;
+}
+
+#root{
+  margin: 0 auto;
+
+}
+.cell{
+width: 38px; height: 38px;
+background: #f9eccc;
+border:solid #587d71 1px;
+border-radius: 5px;
+display: block;
+float: left;
+}
+
+.logo {
+  border-radius: 5px;
+}
+
+.extra {
+  color: #b5dda4;
+}
